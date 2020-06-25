@@ -89,7 +89,7 @@ public class State {
 
 	@Override
 	public String toString() {
-		return name;
+		return this.id;
 	}
 
 	@Override
